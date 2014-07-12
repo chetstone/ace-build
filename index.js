@@ -1,6 +1,6 @@
-//= require ace/src/ace
-//= require ace/src/mode-notetaker
-//= require ace/src/keybinding-emacs
-//= require ace/src/theme-chrome
-//= require ace/src/theme-textmate
+//= require src/ace
+//= require src/mode-notetaker
+//= require src/keybinding-emacs
+//= require src/theme-chrome
+//= require src/theme-textmate
 
